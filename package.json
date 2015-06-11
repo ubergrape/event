@@ -1,0 +1,11 @@
+{
+	"name": "event",
+	"description": "Event binding component with support for legacy browsers.",
+	"version": "1.0.0",
+	"keywords": [
+		"event",
+		"events"
+	],
+	"main": "index.js",
+	"license": "MIT"
+}
